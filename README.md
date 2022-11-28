@@ -8,4 +8,4 @@ __Project Description:__ Web Scraping project to gather data from the "List of l
 
 __Webscraped URL:__ List of languages by number of native speakers (https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers)
 
-__Collaborator:__ Karina Osmanova (kmosmanova@my.waketech.edu)
+__Collaborator:__ Karina Osmanova (kmosmanova@my.waketech.edu) - __ACCEPTED__
